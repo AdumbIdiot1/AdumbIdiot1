@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdumbIdiot1
 - 👀 I’m interested in Programing, mainly web development
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning JavaSript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me piyushjangra276@gmail.com
 

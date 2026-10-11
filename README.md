@@ -119,11 +119,19 @@
 <h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AdumbIdiot1&theme=tokyo-night&hide_border=true&area=true"
-    width="100%"
-    alt="GitHub contribution activity graph"
-  />
+  <a href="https://github.com/AdumbIdiot1">
+    <img
+      src="https://ghchart.rshah.org/70a5fd/AdumbIdiot1"
+      alt="Piyush's GitHub contribution graph"
+      width="100%"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AdumbIdiot1?tab=repositories">
+    Explore my repositories →
+  </a>
 </p>
 ---
 

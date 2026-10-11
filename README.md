@@ -1,56 +1,142 @@
+<!-- =============== ANIMATED HEADER =============== -->
 
-<!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=180&section=header&text=Piyush&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Profile banner"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:2563eb&height=220&section=header&text=Piyush&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BUILDING.%20LEARNING.%20EVOLVING.&descAlignY=55&descSize=15"
+  width="100%"
+  alt="Piyush's animated profile header"
+/>
 
-<!-- Typing animation -->
+<!-- =============== TYPING ANIMATION =============== -->
+
+<div align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=70A5FD&center=true&vCenter=true&width=650&lines=IIoT+Engineering+Student;Exploring+Computer+Science;Interested+in+Software+Development;Always+Learning+Something+New"
+  alt="Typing introduction"
+/>
+
+<br/>
+
+<a href="https://github.com/AdumbIdiot1">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="www.linkedin.com/in/piyushjuwis">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+</div>
+
+---
+
+<!-- =============== ABOUT ME =============== -->
+
+<h2 align="center">👨‍💻 About Me</h2>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=IIoT+Engineering+Student;Exploring+Software+Development;Learning+and+Building+Every+Day" alt="Typing introduction"/>
+  I'm Piyush, an engineering student pursuing
+  <b>Industrial Internet of Things (IIoT)</b>.
+  <br/><br/>
+  I'm interested in computer science, software development,
+  and understanding how technology works.
+  <br/><br/>
+  Currently learning, experimenting, and improving my
+  programming and problem-solving skills.
 </p>
 
-<h3 align="center">Computer Science • Software Development • IIoT</h3>
+<br/>
+
+<!-- =============== INTERESTS =============== -->
+
+<h2 align="center">⚡ What I'm Interested In</h2>
+
+<div align="center">
+
+| 💻 Software Development | 🧠 Problem Solving |
+|:---:|:---:|
+| Exploring programming and development tools | Strengthening logic and analytical thinking |
+
+| 🌐 Computer Science | 🤝 Collaboration |
+|:---:|:---:|
+| Learning how software and systems work | Hackathons and open-source contributions |
+
+</div>
+
+---
+
+<!-- =============== SKILLS =============== -->
+
+<h2 align="center">🛠️ Technologies & Tools</h2>
 
 <p align="center">
-  <a href="https://github.com/AdumbIdiot1">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
+  <b>PROGRAMMING</b>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+<p align="center">
+  <b>WEB DEVELOPMENT</b>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+<p align="center">
+  <b>TOOLS</b>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+<!-- =============== GITHUB STATS =============== -->
 
-- 🎓 B.Tech student in Industrial Internet of Things
-- 💻 Interested in software development and computer science
-- 🌱 Currently learning and improving my programming skills
-- 🤝 Interested in hackathons and collaborative development
+<h2 align="center">📊 GitHub Statistics</h2>
 
-### 🛠️ Technologies & Tools
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,git,github,vscode,linux&theme=dark" alt="Technology icons"/>
-</p>
+<img
+  width="48%"
+  src="https://github-readme-stats.vercel.app/api?username=AdumbIdiot1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  alt="GitHub statistics"
+/>
 
-### 📊 GitHub Stats
+<img
+  width="48%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdumbIdiot1&layout=compact&theme=tokyonight&hide_border=true"
+  alt="Most used programming languages"
+/>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AdumbIdiot1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdumbIdiot1&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-</p>
+</div>
 
-### 📈 Contribution Activity
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdumbIdiot1&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph"/>
-</p>
+<!-- =============== CONTRIBUTION GRAPH =============== -->
 
-<p align="center">
-  <i>Learning, experimenting, and getting better every day.</i>
-</p>
+<h2 align="center">📈 Contribution Activity</h2>
 
-<!---
-AdumbIdiot1/AdumbIdiot1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=AdumbIdiot1&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true"
+  width="100%"
+  alt="GitHub contribution graph"
+/>
+
+</div>
+
+---
+
+<!-- =============== FOOTER =============== -->
+
+<div align="center">
+
+### ✨ Learning something new every day.
+
+<i>Curiosity drives progress.</i>
+
+</div>
